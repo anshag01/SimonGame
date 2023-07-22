@@ -1,5 +1,10 @@
 # Simon
-A Short-Term Memory Skills-Based Game.
+# Introduction
+Number of players (1 or more)
+Playing time (Approximately 30 seconds/player)
+Age (8+) 
+
+Simon is a short-term memory skill-based game which one or more players can play. The game has 4 coloured touch-sensitive buttons which light up to create a sequence which the player has to repeat. If the player correctly matches the sequence, the game indicates its success by issuing a green colour flash. However, when the user incorrectly matches a particular sequence, the turn ends and a red colour warning is flashed. 
 
 # How to setup Ripes
 Ripes is a computer architecture simulator and assembly editor. It is used for the RISC-V instruction set architecture.
@@ -14,22 +19,9 @@ For linux, select Ripes-v2.2.5-linux-x86_64.AppImage.
 How to setup Simon
 1)	Open Ripes and load the game file into Ripes by clicking on “Simon.s”, then “Load Program” and select “Source File” for the file. Choose the file “Simon.s”.  Simon is now setup.
 
-# Introduction
-Number of players (1 or more)
-Playing time (Approximately 30 seconds/player)
-Age (8+) 
-
-Simon is a short-term memory skill-based game which one or more players can play. The game has 4 coloured touch-sensitive buttons which light up to create a sequence which the player has to repeat. If the player correctly matches the sequence, the game indicates its success by issuing a green colour flash. However, when the user incorrectly matches a particular sequence, the turn ends and a red colour warning is flashed. 
-
 # Playing The Game-
 LEDs and d-pad:
 For the current assembly-based version, the touch-sensitive buttons are represented by a d-pad and the 4 LEDs represent the colours that light up. Each of the d-pad keys maps to a single LED.
-
-As shown above, the first four diagrams represent the LEDs with different colours. Each of them corresponds to a position marked on the d-pad. 
-1)	The first LED corresponds to the up key.
-2)	The second LED corresponds to the down key.
-3)	The third LED corresponds to the left key.
-4)	The fourth LED corresponds to the right key.
 
 1.	Starting the game
 The game starts by clicking the fast execution button “>>”. Then, the game prompts the user to know the number of players who would be playing this round. The number of players playing can be 1 or more.
