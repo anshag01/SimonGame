@@ -1,7 +1,9 @@
 # Simon
 ## Introduction
 Number of players (1 or more)
+
 Playing time (Approximately 30 seconds/player)
+
 Age (8+) 
 
 Simon is a short-term memory skill-based game which one or more players can play. The game has 4 coloured touch-sensitive buttons which light up to create a sequence which the player has to repeat. If the player correctly matches the sequence, the game indicates its success by issuing a green colour flash. However, when the user incorrectly matches a particular sequence, the turn ends and a red colour warning is flashed. 
