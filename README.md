@@ -31,7 +31,7 @@ As shown above, the first four diagrams represent the LEDs with different colour
 3)	The third LED corresponds to the left key.
 4)	The fourth LED corresponds to the right key.
 
-1.	Starting the game- 
+1.	Starting the game
 The game starts by clicking the fast execution button “>>”. Then, the game prompts the user to know the number of players who would be playing this round. The number of players playing can be 1 or more.
 
 For example- On starting the game, the console asks “How many players want to play?” if the player enters 5, the console allows 5 players to play the game.
@@ -53,7 +53,7 @@ When all players have played, the console in Ripes displays the score for each p
 
 In the end, the console prompts with the question if they want to play the game again. If yes, the player can enter 1 and the game restarts otherwise the player can enter any other input to end the program.
 
-# Troubleshoot-
+# Troubleshoot
 In Mac/Windows, Ripes might not work correctly during the fast execution.
 To troubleshoot that, one suggestion is to delete and reinstall Ripes by repeating the setup process.
 Another suggestion is to run Ripes on the lab machines on Linux. This can be done by downloading the Linux setup file from the releases page. Then the ripes folder must be given permission to be executed using thsse command chmod+x in the terminal. Then enter ./<name of the file>  in the terminal to run it.
