@@ -6,10 +6,10 @@ Age (8+)
 
 Simon is a short-term memory skill-based game which one or more players can play. The game has 4 coloured touch-sensitive buttons which light up to create a sequence which the player has to repeat. If the player correctly matches the sequence, the game indicates its success by issuing a green colour flash. However, when the user incorrectly matches a particular sequence, the turn ends and a red colour warning is flashed. 
 
-## How to setup Ripes
+## How to Setup Ripes
 Ripes is a computer architecture simulator and assembly editor. It is used for the RISC-V instruction set architecture.
 
-### Download instructions
+### Download Instructions
 1)	Go to the following link on GitHub -https://github.com/mortbopet/Ripes/releases/tag/v2.2.5
 
 2)	Select the link to the correct version according to your operating system. 
@@ -21,7 +21,7 @@ For linux, select Ripes-v2.2.5-linux-x86_64.AppImage.
 
 4)	Now, setup is complete.
 
-## How to setup Simon
+## How to Setup Simon
 1)	Open Ripes and load the game file into Ripes by clicking on “Simon.s”, then “Load Program” and select “Source File” for the file. Choose the file “Simon.s”.  Simon is now setup.
 
 ## Playing The Game
